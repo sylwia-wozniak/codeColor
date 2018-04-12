@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+.vs/
+css/
+img/
+index.html
+!src/**/*.html
